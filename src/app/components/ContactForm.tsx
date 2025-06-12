@@ -64,7 +64,7 @@ const handleSubmit = async (e: React.FormEvent) => {
 
       <button
         type="submit"
-        className="w-full bg-yellow-400 text-green-600 py-2 px-4 hover:bg-green-700 focus:outline-none focus:outline-none focus:ring-0"
+        className="w-full bg-yellow-300 text-blue-600 hover:text-green-500 py-2 px-4 hover:bg-green-500 focus:outline-none focus:outline-none focus:ring-0"
       >
         Submit
       </button>
